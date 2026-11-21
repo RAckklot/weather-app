@@ -1,2 +1,2 @@
 # weather-app
-small1 day school prject for my cousin
+small1 day school prject
